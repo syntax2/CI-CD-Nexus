@@ -1,5 +1,5 @@
 # CI-CD-Nexus
-building a pipeline for Vote App to deploy on ECS.
+building a pipeline for NOde App to deploy on ECS.
 
 
 **here is the link to the project**
